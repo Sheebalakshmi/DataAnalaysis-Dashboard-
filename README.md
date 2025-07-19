@@ -69,4 +69,4 @@ Leverage insights to improve marketing or inventory decisions.
 
 📬 Contact
 Created by: R.Sheebalakshmi 
-Email: sheebachandran125@gmail.com
+Role: Data Science and Data Analyst intern at Futureinterns 
