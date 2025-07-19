@@ -58,6 +58,7 @@ Category and Product Insights
 
 ## Dashboard
 Powerbi Visualization Techniques
+<a href="https://github.com/Sheebalakshmi/DataAnalaysis-Dashboard-/blob/main/E-commerce%20salesman%20dashboard.jpg"> Dashboard </a>
 
 ## 📌 Process:
 
